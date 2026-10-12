@@ -18,6 +18,6 @@
 
 ## A year in commits
 
-[![Contribution History](https://ghchart.rshah.org/rkmax)](https://github.com/rkmax)
+<a href="https://github.com/rkmax"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rkmax/rkmax/output/galaga-dark.svg"><img alt="Contribution history played as Galaga" src="https://raw.githubusercontent.com/rkmax/rkmax/output/galaga.svg"></picture></a>
 
 </div>
