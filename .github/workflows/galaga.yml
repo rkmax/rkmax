@@ -24,7 +24,7 @@ jobs:
           node-version: 22
 
       - name: Test
-        run: node --test galaga/
+        run: node --test 'galaga/*.test.mjs'
 
       - name: Generate light and dark SVGs
         run: node galaga/generate.mjs --user "${{ github.repository_owner }}" --out dist
